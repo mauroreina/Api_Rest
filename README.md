@@ -19,7 +19,16 @@ Para el proyecto se crearon 5 archivos:
 1. servidor.js 
 Este archivo contiene la configuración para crear la instancia que estara escuchando en el puerto 3000
 
-2. api_merqueo.js
+2. conexionDB
+Sirve para parametrizar la conexion a Mysql
+
+3. conectarDB.js
+Funcion para realizar conexion a MySql
+
+4. consultar.js
+Funcion para ejecutar querys a la BD.
+
+5. api_merqueo.js
 Este archivo contiene 6 rutas que resuelven los puntos indicados en el reto:
 
 /lista_inventario 
