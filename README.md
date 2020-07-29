@@ -5,7 +5,7 @@ INSTALACCION:
 
 1. Descargar los archivos del repositorio.
 
-2. Desde la consola instalar los modulos necesarios:
+2. Desde la consola instalar los modulos necesarios o tambien envio archivo node_modules.zip con todos los modulos necesarios:
 - npm init -Y
 - npm i -S mysql
 - npm i -S express body-parser
